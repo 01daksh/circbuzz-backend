@@ -23,3 +23,5 @@ Postman testing Images:
   ![player_stats](https://github.com/01daksh/circbuzz-backend/assets/141723121/be7f66f3-014c-48d7-bd62-a54b21b5985e)
   
   ![team_member_insertion](https://github.com/01daksh/circbuzz-backend/assets/141723121/8af558a0-eb08-4b31-8f90-53c5d0e20e11)
+
+  ![matches_between_teams](https://github.com/01daksh/circbuzz-backend/assets/141723121/7cfafe48-acdf-40b8-9dc4-f8b9461ce850)
