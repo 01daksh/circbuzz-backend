@@ -1,8 +1,8 @@
 Tech Stack Used:
-  Language : JavaScript
-  Frameword : Node.js and Express.js
-  Database: PostgreSQL
-  Testing done using : Postman
+  * Language : JavaScript
+  * Frameword : Node.js and Express.js
+  * Database: PostgreSQL
+  * Testing done using : Postman
 
 How to setup the project?
   1) Clone/download the cricbuzz-backend project from github
